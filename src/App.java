@@ -1,3 +1,6 @@
+/*
+ * Autores: Bruno Isaac Obelencio Merchan, Ismael Alejandro Pauta Sotelo
+ */
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
