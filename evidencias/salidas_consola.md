@@ -14,9 +14,35 @@
 
 ---
 
-## 2. Capturas de Ejecución (C1)
-* **Código implementado:** [c1_codigo.png](c1_codigo.png)[cite: 8]
-* **Salida en consola:** [c1_consola.png](c1_consola.png)[cite: 8]
+## 2. Capturas de Ejecución (C1–C7)
+
+### C1: Orden Natural (`Comparable`)
+* **Código implementado:** [c1_codigo.png](c1_codigo.png)
+* **Salida en consola:** [c1_consola.png](c1_consola.png)
+
+### C2: Nombre ascendente; código ascendente
+* **Código implementado:** [c2_codigo.png](c2_codigo.png)
+* **Salida en consola:** [c2_consola.png](c2_consola.png)
+
+### C3: Nota ascendente, sin desempate
+* **Código implementado:** [c3_codigo.png](c3_codigo.png)
+* **Salida en consola:** [c3_consola.png](c3_consola.png)
+
+### C4: Nota descendente; nombre ascendente
+* **Código implementado:** [c4_codigo.png](c4_codigo.png)
+* **Salida en consola:** [c4_consola.png](c4_consola.png)
+
+### C5: Edad ascendente; nombre descendente
+* **Código implementado:** [c5_codigo.png](c5_codigo.png)
+* **Salida en consola:** [c5_consola.png](c5_consola.png)
+
+### C6: Carrera asc; nota desc; nombre asc; código asc
+* **Código implementado:** [c6_codigo.png](c6_codigo.png)
+* **Salida en consola:** [c6_consola.png](c6_consola.png)
+
+### C7: Nota ajustada desc; nombre asc; código asc
+* **Código implementado:** [c7_codigo.png](c7_codigo.png)
+* **Salida en consola:** [c7_consola.png](c7_consola.png)
 
 ---
 
