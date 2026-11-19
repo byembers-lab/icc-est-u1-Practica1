@@ -38,7 +38,7 @@ public class Comparadores {
         List<Estudiante> lista = new ArrayList<>(estudiantes);
         Comparator<Estudiante> porOrdenNatural = (e1, e2) -> e1.compareTo(e2);
         lista.sort(porOrdenNatural);
-        System.out.println("\n--- c1 Orden natural con intefaces Comparable ---");
+        System.out.println("\n--- c1 Codigo Orden natural con intefaces Comparable ---");
         imprimir(lista);
     }
 
